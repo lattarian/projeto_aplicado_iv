@@ -11,10 +11,17 @@ O foco do projeto é aplicar técnicas de **Análise Exploratória de Dados (EDA
 A organização sugerida para este projeto é a seguinte (os nomes de pastas podem variar conforme seu uso real):
 
 ```text
-.
 ├── projeto/
-│   ├── cd_projeto_aplicado_IV_entrega_1.ipynb
+│   ├── ccd_projeto_aplicado_IV_entrega_1.ipynb
 │   ├── cd_projeto_aplicado_IV_entrega_2.ipynb
 │   ├── cd_projeto_aplicado_IV_entrega_3.ipynb
 │   └── cd_projeto_aplicado_IV_entrega_4.ipynb
 └── README.md
+
+
+### Apresentação
+
+
+## Artigo
+
+[artigo](.)
