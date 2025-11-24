@@ -22,6 +22,6 @@ A organização sugerida para este projeto é a seguinte (os nomes de pastas pod
 ### Apresentação
 
 
-## Artigo
+### Artigo
 
 [projeto_aplicado_iv.pdf](Projeto_Aplicado_IV.pdf)
