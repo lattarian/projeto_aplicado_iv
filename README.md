@@ -17,11 +17,11 @@ A organização sugerida para este projeto é a seguinte (os nomes de pastas pod
 │   ├── cd_projeto_aplicado_IV_entrega_3.ipynb
 │   └── cd_projeto_aplicado_IV_entrega_4.ipynb
 └── README.md
-
+```
 
 ### Apresentação
 
 
 ## Artigo
 
-[artigo](.)
+[artigo](Projeto_Aplicado_IV.pdf)
