@@ -12,7 +12,7 @@ A organização sugerida para este projeto é a seguinte (os nomes de pastas pod
 
 ```text
 ├── projeto/
-│   ├── ccd_projeto_aplicado_IV_entrega_1.ipynb
+│   ├── cd_projeto_aplicado_IV_entrega_1.ipynb
 │   ├── cd_projeto_aplicado_IV_entrega_2.ipynb
 │   ├── cd_projeto_aplicado_IV_entrega_3.ipynb
 │   └── cd_projeto_aplicado_IV_entrega_4.ipynb
