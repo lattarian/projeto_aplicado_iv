@@ -21,6 +21,7 @@ A organização sugerida para este projeto é a seguinte (os nomes de pastas pod
 
 ### Apresentação
 
+[Video de apresentação](https://youtu.be/4o2vbHN8T38)
 
 ### Artigo
 
